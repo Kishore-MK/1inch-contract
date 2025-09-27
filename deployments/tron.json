@@ -1,0 +1,32 @@
+{
+  "network": "tron-shasta",
+  "chainId": "2",
+  "timestamp": "2025-09-27T11:32:54.945Z",
+  "deployer": "TDjWsSyKvT6X8gdfCvVXmJeLQfnQVjz1XS",
+  "contracts": {
+    "usdc": {
+      "address": "TU7L9h4KdAXDCXaC15zihQRFk5dUTWv63h",
+      "hexAddress": "41c6fb8f318a48273540c82a0291ef616d1ac9579b"
+    },
+    "weth": {
+      "address": "TRAaGoCyrNdqW7Jftebqy3iGKXiN5gN7wo",
+      "hexAddress": "41a6b038012999294d19ec177f36450c9a616ba6bc"
+    },
+    "trueERC20": {
+      "address": "TWMdGyPMtLj2zW3hgMgDneuVnc7qVwGvJU",
+      "hexAddress": "41df9fee18cef8b0a2724ad3d59befd8c5c098ec79"
+    },
+    "limitOrderProtocol": {
+      "address": "TQwjH6irrDHL7RCJGK5tbw7gfbURBf4i39",
+      "hexAddress": "41a442541425ba4f1fadce1b091811eadfb9195278"
+    },
+    "settlement": {
+      "address": "TQJFqP41kqU7RS5ZxkhmQXZbVgUp5gd4EK",
+      "hexAddress": "419d2c077bb9ebd00b8d494b26497f1f58ebc19e6c"
+    },
+    "escrowFactory": {
+      "address": "TDSffTVz8BGTgKeTvgHQeWDa2WQxErey7b",
+      "hexAddress": "412619dd5b5e3b64b25ca297669a228b64ffdd89f3"
+    }
+  }
+}
